@@ -26,3 +26,5 @@ Chào mừng đến với dự án hệ thống bán khóa học trực tuyến!
 git clone https://github.com/ten_tai_khoan/course-platform.git
 cd course-platform
 docker-compose up --build
+## Cập nhật: Đã thêm nhánh mới feature/update-readme
+
